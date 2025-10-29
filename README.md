@@ -192,7 +192,7 @@ Author
 
 
 
-Bhoomikaa
+Bhoomika
 
 A personal deep-learning project exploring vision–language models and warehouse automation.
 
